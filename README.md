@@ -1,5 +1,5 @@
 # GreatFrontEnd-Projects
-Front-End development exercises and projects following the GreatFrontEnd Skills Roadmap.
+Front-End development exercises and projects following the [GreatFrontEnd Skills Roadmap](https://www.greatfrontend.com/projects/skills).
 
 **HTML**
 - HTML Basics
