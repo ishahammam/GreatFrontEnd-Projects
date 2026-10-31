@@ -84,6 +84,7 @@ body {
     justify-content: center;
     width: 100%;
     gap: 36px;
+    padding: 8px 0;
 }
 
 .social-links img {
