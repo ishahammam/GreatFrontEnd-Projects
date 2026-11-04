@@ -10,8 +10,5 @@ the [GreatFrontEnd Skills Roadmap](https://www.greatfrontend.com/projects/skills
     - [Blog Card](https://ishahammam.github.io/GreatFrontEnd-Projects/HTML/HTML-Basics/Blog-Card)
     - [Profile Card](https://ishahammam.github.io/GreatFrontEnd-Projects/HTML/HTML-Basics/Profile-Card/)
     - [Navbar Component](https://ishahammam.github.io/GreatFrontEnd-Projects/HTML/HTML-Basics/Navbar-Component/)
-
-
-
-
+    - [Footer Component](https://ishahammam.github.io/GreatFrontEnd-Projects/HTML/HTML-Basics/Footer-Component/) (In-Progress)
 
