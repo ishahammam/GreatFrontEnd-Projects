@@ -11,6 +11,13 @@ body {
     box-sizing: border-box;
 }
 
+:root {
+    --primary-text: #171717;
+    --secondary-text: #525252;
+    --brand-color: #4338ca;
+    --error-color: #dc2626;
+}
+
 .credits {
     color: #777;
     position: fixed;
@@ -24,3 +31,25 @@ body {
     color: #000;
     font-weight: bold;
 }
+
+/*  ------------------------------ MOBILE LAYOUT (375px)  ------------------------------ */
+
+@media (max-width: 375px) {
+    body {
+        padding: 16px;
+        align-content: center;
+    }
+
+    footer {
+        padding-block: 96px;
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+/*  ------------------------------ TABLET LAYOUT (768px)  ------------------------------ */
+/*  ------------------------------ DESKTOP LAYOUT (1024px)  ------------------------------ */
+
