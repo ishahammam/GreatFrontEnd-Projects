@@ -23,8 +23,14 @@
         </div>
         <div class="newsletter-form-container">
             <form action="#" class="newsletter-form">
-                <label aria-label="Newsletter Email">
-                    <input type="email" placeholder="Enter your email"/>
+                <label for="newsletter-email">
+                    <input
+                            type="email"
+                            name="email"
+                            id="newsletter-email"
+                            autocomplete="email"
+                            required
+                            placeholder="Enter your email"/>
                 </label>
                 <button type="submit" class="btn-subscribe">Subscribe</button>
             </form>
